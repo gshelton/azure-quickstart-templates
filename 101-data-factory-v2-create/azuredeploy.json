@@ -4,7 +4,7 @@
     "parameters": {
         "name": {
             "type": "string",
-            "defaultValue": "datafactory"
+            "defaultValue": "myv2datafactory"
         },
         "location": {
             "type": "string",
